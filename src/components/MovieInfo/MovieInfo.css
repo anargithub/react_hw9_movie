@@ -1,0 +1,30 @@
+h1{
+    margin: 20px;
+}
+.popularMovies_list img{
+    border-radius: 30px;
+    transition: all 0.3s ease 0s;
+    object-fit: cover;
+}
+.movie_head_content{
+    background-color: #353535;;
+}
+.movie_head_content img{
+background-size: cover;
+height: 500px;
+width: 100%;
+
+}
+.movie_head_content h1{
+    position: relative;
+    top: -150px;
+    color: white;
+}
+.movie_head_content p{
+
+    font-size: 20px;
+    position: relative;
+    top: -150px;
+    color: white;
+    margin: 20px;
+}

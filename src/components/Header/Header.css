@@ -1,0 +1,17 @@
+.header_img{
+    max-width: 100%;
+    background-color: #1c1c1c;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header_img1 img{
+    width: 60%;
+
+}
+.header_img2 img{
+    width: 40%;
+
+}
